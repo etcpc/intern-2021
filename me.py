@@ -1,2 +1,2 @@
 print ("Hello ETCPC")
-print ("Pro")
+print ("Pro max fax pax al jedid")
